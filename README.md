@@ -10,7 +10,7 @@ This repository demonstrates a complete **Data Cleaning & Preprocessing** workfl
 
 **Files in this repo**
 - `data_cleaning_preprocessing.ipynb` - Jupyter notebook with step-by-step code and visualizations.
-- `sample_data.csv` - Example dataset used in the notebook.
+- `Titanic_Dataset.csv` - Example dataset used in the notebook.
 - `requirements.txt` - Python dependencies.
 
 ## How to run
